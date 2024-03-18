@@ -1,0 +1,3 @@
+* Small Bug fixes and cleanup
+* Added Simple Voice Chat
+* Adopted correct version number structure
